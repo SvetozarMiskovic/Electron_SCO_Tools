@@ -1,0 +1,19 @@
+{
+  "name": "electron_sco_tools",
+  "version": "1.0.0",
+  "description": "SCO L3 Tools",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SvetozarMiskovic/Electron_SCO_Tools.git"
+  },
+  "author": "Svetozar Miskovic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SvetozarMiskovic/Electron_SCO_Tools/issues"
+  },
+  "homepage": "https://github.com/SvetozarMiskovic/Electron_SCO_Tools#readme"
+}
